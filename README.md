@@ -10,6 +10,9 @@ Rofi is an incredibly customisable launcher, here are some example Dracula theme
 ### theme/config2.rasi
 ![Screenshot2](./theme/screenshot2.png)
 
+### theme/dracula3.rasi
+![Screenshot3](./theme/screenshot3.png)
+
 
 ## Install
 
@@ -19,9 +22,9 @@ All instructions can be found at [draculatheme.com/rofi](https://draculatheme.co
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/rofi/graphs/contributors).
 
-| [![Rafael Lopes](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) |
-| --- |
-| [Rafael Lopes](https://github.com/RaphGL) |
+| [![Rafael Lopes](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) | [![Darren Davison](https://avatars.githubusercontent.com/u/591251?s=70)](https://github.com/davison) |
+| --- | --- |
+| [Rafael Lopes](https://github.com/RaphGL) | [Darren Davison](https://github.com/davison) |
 
 ## License
 
